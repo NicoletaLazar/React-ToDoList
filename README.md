@@ -1,6 +1,6 @@
 # React ToDoList
 
-# Where you can add/remove. tasks to your list
+# Where you can add/remove tasks to your list
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
